@@ -23,4 +23,3 @@ Notes:
 
 1- Makes use of images generated with Artificial Intelligence.
 2- Portuguese Adventure
-
