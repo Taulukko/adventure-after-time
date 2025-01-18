@@ -5,10 +5,10 @@ No final do século XIX, o renomado escritor H.G. Wells reúne as mentes mais br
 
 
 
-Observação
+Observações:
 
- Faz uso de imagens com Inteligência Artificial
-
+1-) Faz uso de imagens com Inteligência Artificial
+2-) Aventura em Português
 
 
 
@@ -19,8 +19,8 @@ In the late 19th century, renowned writer H.G. Wells gathers London’s brightes
 
 
 
-Note
+Notes:
 
-Makes use of images generated with Artificial Intelligence.
-
+1-) Makes use of images generated with Artificial Intelligence.
+2-) Portuguese Adventure
 
