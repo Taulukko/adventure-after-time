@@ -1,0 +1,142 @@
+
+##FATE System##
+
+
+Em Português:
+
+A aventura AFTER TIME utiliza-se do sistema FATE Básico conforme a licença abaixo:
+
+A aventura LOOP utiliza-se do sistema FATE Condensed (em inglês) mas também pode ser jogado com o FATE BÁSICO (em Português) e a aventura é permitida conforme a licença abaixo de ambos os produtos FATE:
+
+Este trabalho é baseado em Fate Core System e Fate Accelerated Edition (encontrado em https://www.faterpg.com/ ), produtos da Evil Hat Productions, LLC, desenvolvidos, de autoria e editados por Leonard Balsera, Brian Engard, Jeremy Keller , Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks e Rob Donoghue, e licenciado para nosso uso sob a licença Creative Commons Attribution 3.0 Unported ( https://creativecommons.org/licenses/by/3.0/ ).
+
+e
+
+Este trabalho é baseado em Fate Condensed (encontrado em https://www.faterpg.com/ ), um produto da Evil Hat Productions, LLC, desenvolvido, de autoria e editado por PK Sullivan, Lara Turner, Fred Hicks, Richard Bellingham, Robert Hanz e Sophie Lagacé, e licenciado para nosso uso sob a licença Creative Commons Attribution 3.0 Unported. .
+
+
+
+
+In English:
+The AFTER TIME adventure uses the Fate Core System under the following license:
+
+The LOOP adventure uses the Fate Condensed system (in English) but can also be played with the Fate Core System (in Portuguese). The adventure is permitted under the following licenses for both Fate products:
+
+
+This work is based on Fate Core System and Fate Accelerated Edition (found at https://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (https://creativecommons.org/licenses/by/3.0/).
+
+and
+
+This work is based on Fate Condensed (found at https://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by PK Sullivan, Lara Turner, Fred Hicks, Richard Bellingham, Robert Hanz, and Sophie Lagacé, and licensed for our use under the Creative Commons Attribution 3.0 Unported license.
+
+
+
+##AFTER TIME##
+Em Portugues
+
+
+1. Concessão de Licença Este documento é uma licença legal entre o licenciante ("Taulukko e Edson Vicente Carli Junior") e você ("Licenciado"). Ao adquirir, baixar ou usar esta mídia, que inclui textos, imagens e sons ("Conteúdo"), você aceita os termos desta Licença. Concedemos ao Licenciado uma licença não exclusiva, intransferível e revogável para usar o Conteúdo conforme especificado nos termos desta Licença.
+
+2. Direitos Permitidos O Licenciado tem o direito de:
+
+Uso: Utilizar o Conteúdo para fins pessoais, educacionais ou outros fins não comerciais.
+
+Modificação: Alterar o Conteúdo para uso conforme descrito acima, desde que tais alterações não sejam utilizadas para fins comerciais.
+
+3. Restrições
+
+Não Comercial: O Licenciado não pode usar o Conteúdo para qualquer forma de benefício comercial ou monetário.
+
+Proibição de Revenda: O Conteúdo não pode ser revendido, sublicenciado, distribuído, comercializado ou de outra forma oferecido para uso a terceiros.
+
+Crédito: Ao utilizar ou exibir o Conteúdo modificado, o Licenciado deve dar crédito apropriado ao criador original, de forma clara e visível.
+
+4. Direitos de Propriedade O Conteúdo é protegido por direitos autorais, marcas comerciais e outras leis de propriedade intelectual. O Licenciado não adquire nenhum título ou direitos de propriedade no Conteúdo, exceto os direitos limitados concedidos por esta Licença.
+
+5. Termo Esta Licença permanecerá em vigor até que seja terminada pelo Licenciante ou até que o Licenciado viole algum termo desta Licença. Em caso de violação, a Licença será automaticamente revogada e o Licenciado deverá cessar imediatamente todo uso do Conteúdo.
+
+6. Garantias e Isenção de Responsabilidade O Conteúdo é fornecido "como está". O Licenciante não oferece garantias, expressas ou implícitas, em relação ao Conteúdo e não se responsabiliza por qualquer uso do mesmo pelo Licenciado.
+
+7. Indenização O Licenciado concorda em indenizar e isentar o Licenciante de qualquer reclamação, perda, responsabilidade, ou despesa decorrente de ou relacionada ao uso do Conteúdo pelo Licenciado.
+
+8. Lei Aplicável Esta Licença será regida e interpretada de acordo com as leis do país de origem do Licenciante, sem dar efeito a qualquer escolha ou conflito de disposição legal.
+
+9. Modificações Esta Licença pode ser alterada pelo Licenciante a qualquer momento. As alterações entrarão em vigor imediatamente após a publicação da versão revisada.
+
+10. Aceitação Ao utilizar o Conteúdo, o Licenciado aceita estar vinculado aos termos desta Licença. Se o Licenciado não concordar com os termos desta Licença, não deve baixar, copiar ou usar o Conteúdo.
+
+
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO A GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM FIM ESPECÍFICO E NÃO VIOLAÇÃO. EM NENHUM CASO OS AUTORES OU DETENTORES DOS DIREITOS AUTORAIS SERÃO RESPONSÁVEIS POR QUALQUER RECLAMAÇÃO, DANOS OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, TORTURA OU OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO PROGRAMAS.
+
+
+In English:
+
+1- This document is a legal license agreement between the licensor ("Taulukko and Edson Vicente Carli Junior") and you ("Licensee"). By acquiring, downloading, or using this media, which includes texts, images, and sounds ("Content"), you accept the terms of this License. We grant the Licensee a non-exclusive, non-transferable, and revocable license to use the Content as specified in the terms of this License.  
+
+2- Permitted Rights
+The Licensee has the right to:  
+
+- Usage: Use the Content for personal, educational, or other non-commercial purposes.  
+- Modification: Modify the Content for use as described above, provided such modifications are not used for commercial purposes.  
+
+3- Restrictions  
+
+- Non-Commercial: The Licensee may not use the Content for any form of commercial or monetary benefit.  
+- Prohibition of Resale: The Content may not be resold, sublicensed, distributed, marketed, or otherwise made available for use by third parties.  
+- Attribution: When using or displaying modified Content, the Licensee must provide appropriate credit to the original creator, clearly and visibly.  
+
+4- Ownership Rights  
+The Content is protected by copyright, trademarks, and other intellectual property laws. The Licensee does not acquire any ownership or proprietary rights to the Content, except for the limited rights granted by this License.  
+
+5- Term  
+This License will remain in effect until terminated by the Licensor or until the Licensee breaches any term of this License. In the event of a violation, the License will be automatically revoked, and the Licensee must immediately cease all use of the Content.  
+
+6- Warranties and Disclaimer  
+The Content is provided "as is." The Licensor makes no warranties, express or implied, regarding the Content and is not liable for any use of the Content by the Licensee.  
+
+7. Indemnification  
+The Licensee agrees to indemnify and hold the Licensor harmless from any claim, loss, liability, or expense arising from or related to the Licensee's use of the Content.  
+
+8- Governing Law  
+This License will be governed by and construed in accordance with the laws of the Licensor's country of origin, without regard to any choice or conflict of law provisions.  
+
+9- Modifications  
+This License may be amended by the Licensor at any time. Amendments will take effect immediately upon the publication of the revised version.  
+
+10- Acceptance  
+By using the Content, the Licensee agrees to be bound by the terms of this License. If the Licensee does not agree to the terms of this License, they must not download, copy, or use the Content.  
+
+DISCLAIMER  
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+##IMAGES##
+Em Português:
+Todas as imagens utilizadas neste projeto estão liberadas sob a permissão:
+
+
+
+Conjunto de Imagens para o Jogo After Time - FATE © 2024 por Edson Vicente Carli Junior está sob a licença CC BY-NC-ND 4.0© 2024 por Edson Vicente Carli Junior está sob a licença CC BY-NC-ND 4.0
+
+
+
+Quase todas as imagens foram geradas por inteligência artificial e detenho os seus direitos.
+
+Exceto os mapas que foram gerados utilizando ferramenta específica para isto e também detenho os direitos.
+
+
+
+Simplificando, desde que não seja para uso comercial e você atribua os direitos à minha pessoa, pode modificar , alterar e usar estas imagens como lhe convir. Caso contrário entre em contato para combinar uma permissão personalizada.
+
+In English:
+All images used in this project are released under the following permission:
+
+Image Set for the Game AFTER TIME- FATE © 2024 by Edson Vicente Carli Junior is licensed under CC BY-NC-ND 4.0
+
+Most of the images were generated by artificial intelligence, and I hold their rights.
+
+The only exceptions are the maps, which were created using a specific tool, and I also hold their rights.
+
+To simplify: as long as it is not for commercial use and you attribute the rights to me, you are free to modify, alter, and use these images as you wish. Otherwise, please contact me to arrange a custom permission.
+
