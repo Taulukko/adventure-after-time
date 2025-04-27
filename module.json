@@ -3,7 +3,7 @@
     "name": "after-time-fate",
     "title": "After Time (FATE)",
     "description": "Um jantar, um assassinato, um mistério.",
-    "version": "1.0.5",
+    "version": "V1.0.6",
     "authors": [
         {
             "name": "Edson Vicente Carli Junior",
@@ -23,9 +23,13 @@
             "label": "After Time Adventure",
             "path": "./packs/after-time-fate",
             "type": "Adventure",
+			 "ownership": {
+                "PLAYER": "NONE",
+                "ASSISTANT": "OWNER"
+            },
             "system": "fate-core-official"
         }
     ],
     "manifest": "https://github.com/Taulukko/adventure-after-time/releases/latest/download/module.json",
-	"download" : "https://github.com/Taulukko/adventure-after-time/releases/latest/download/module.zip"
+    "download": "https://github.com/Taulukko/adventure-after-time/releases/download/V1.0.5/module.zip"
 }
