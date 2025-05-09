@@ -1,6 +1,5 @@
 {
     "id": "after-time-fate",
-    "name": "after-time-fate",
     "title": "After Time (FATE)",
     "description": "Um jantar, um assassinato, um mistério.",
     "version": "V1.0.6",
@@ -10,12 +9,10 @@
             "discord": "Edson (Gand) Carli#9528",
             "url": "https://github.com/Taulukko/adventure-after-time"
         }
-    ],
-    "minimumCoreVersion": "12.331",
-    "compatibleCoreVersion": "12",
+    ],  
     "compatibility": {
         "minimum": "11",
-        "verified": "12"
+        "verified": "13"
     },
     "packs": [
         {
